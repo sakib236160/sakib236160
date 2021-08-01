@@ -1,9 +1,9 @@
-![Design and Development](https://mediashower.com/img/214489C6-76CA-11E9-AAB6-DF75CD55D705/bigstock-Web-Development-And-Coding-Cr-252023773_600x.jpg)
+![Design and Development](https://i2.wp.com/www.netleafinfosoft.com/our-blog/wp-content/uploads/2020/05/web-development-company.png?w=872&ssl=1)
 
-<h4>Hi there. I'm Sohel Rana 👋</h4>
+<h4>Hi there. I'm Sakib Hossain 👋</h4>
 <h3>MERN / Full Stack Developer.</h3>
 
-I'm Sohel from Bangladesh, and I do Design and Development. I really enjoy learning languages and framworks like React, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
+I'm Sakib from Bangladesh, and I do Design and Development. I really enjoy learning languages and framworks like React, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
 
 - 🌱 I’m currently learning *Everything*
 
