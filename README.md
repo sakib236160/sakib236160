@@ -1,21 +1,19 @@
-### Hi there 👋
-
 ![Design and Development](https://mediashower.com/img/214489C6-76CA-11E9-AAB6-DF75CD55D705/bigstock-Web-Development-And-Coding-Cr-252023773_600x.jpg)
 
-<h4>Hi there. I'm Md. Sakib Hossin 👋</h4>
+<h4>Hi there. I'm Sohel Rana 👋</h4>
 <h3>MERN / Full Stack Developer.</h3>
 
 I'm Sohel from Bangladesh, and I do Design and Development. I really enjoy learning languages and framworks like React, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
 
 - 🌱 I’m currently learning *Everything*
 
-- 👨‍💻 All of my projects are available at [https://fsmdsohel.github.io/dev-sohel/]
+- 👨‍💻 All of my projects are available at [https://sakib236160.github.io/developer-portfolio/]
 
-- 📫 How to reach me *fsmdsohelrana@gmail.com*
+- 📫 How to reach me *hossainsakib965@gmail.com*
 ### Connect with me:
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/fsmdsohel/) 
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/fsmdsohel1) 
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mdsakib.hossain.562329) 
 [![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)](https://twitter.com/fsmdsohel)
 [![Instagram follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=instagram&logoColor=ffffff)](https://www.instagram.com/fsmdsohel/)
 
@@ -91,8 +89,8 @@ I'm Sohel from Bangladesh, and I do Design and Development. I really enjoy learn
 </p>
 <p>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fsmdsohel&hide=javascript,html)](https://github.com/fsmdsohel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakib236160&hide=javascript,html)](https://github.com/sakib236160/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fsmdsohel&show_icons=true&locale=en" alt="fsmdsohel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakib236160&show_icons=true&locale=en" alt="sakib236160" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fsmdsohel&" alt="fsmdsohel" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakib236160&" alt="sakib236160" /></p>
