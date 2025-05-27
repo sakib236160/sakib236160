@@ -7,8 +7,6 @@ I'm Sakib from Bangladesh, and I do Design and Development. I really enjoy learn
 
 - 🌱 I’m currently learning *Everything*
 
-- 👨‍💻 All of my projects are available at [https://sakib236160.github.io/developer-portfolio/]
-
 - 📫 How to reach me *hossainsakib965@gmail.com*
 ### Connect with me:
 
