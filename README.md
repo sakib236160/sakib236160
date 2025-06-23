@@ -47,15 +47,15 @@
 ![VSCode](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 📊 GitHub Stats:
-  <div className="mt-6 space-y-4 bg-gray-900 p-4 rounded-lg shadow-lg">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=sakib236160&show_icons=true&locale=en&layout=compact"
-    alt="Top Languages"
-    className="w-full rounded-lg shadow-md"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sakib236160&"
-    alt="GitHub Streak"
-    className="w-full rounded-lg shadow-md"
-  />
-</div>
+  <div className="mt-6 space-y-4">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=sakib236160&show_icons=true&locale=en&layout=compact"
+      alt="Top Languages"
+      className="w-full rounded-lg shadow-md"
+    />
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=sakib236160&"
+      alt="GitHub Streak"
+      className="w-full rounded-lg shadow-md"
+    />
+  </div>
