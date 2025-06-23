@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next.js**, **TypeScript**
 - 👨‍💻 All of my projects are available at (https://sakib-portfolio-taupe.vercel.app/)
-- 💬 Ask me about **React, Vue, Tailwind CSS, GSAP**
+- 💬 Ask me about **React,Tailwind CSS**
 - 📫 How to reach me **💬 hossainsakib965@gmail.com 📞 +8801780619346**
 - ⚡ Fun fact **I think I’m funny 😄... but my code is serious!**
 
