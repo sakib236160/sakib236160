@@ -2,34 +2,23 @@
   <img src="https://i.ibb.co/23R7WknM/github-header.png" alt="Sakib Hossain Banner" />
 </p>
 <h1 align="center">Hi 👋, I'm Sakib Hossain</h1>
-<h3 align="center">MERN Stack Developer</h3>
+<h3 align="center">A young man interested in frontend technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakib236160&label=Profile%20views&color=0e75b6&style=flat" alt="sakib236160" /> </p>
 
-- 🔭 I’m currently working on [MediHub](Live Link: https://medihub-6ef03.web.app/ GitHub Link: https://github.com/sakib236160/mediHub-client)
-
-- 🌱 I’m currently learning **- Next.js - TypeScript - MongoDB Aggregation - Advanced UI Animations with GSAP**
-
-- 👯 I’m looking to collaborate on [BookCove](Live Link: https://book-cove.web.app/ GitHub Link: https://github.com/sakib236160/bookCove-Client-Side)
-
-- 🤝 I’m looking for help with [Equisports](Live Link: https://equisports-firebase.web.app/ GitHub Link: https://github.com/sakib236160/equisports-client-side)
-
+- 🌱 I’m currently learning **Next.js**, **TypeScript**
 - 👨‍💻 All of my projects are available at (https://sakib-portfolio-taupe.vercel.app/)
-
-- 📝 I regularly write articles on [N/A](N/A)
-
 - 💬 Ask me about **React, Vue, Tailwind CSS, GSAP**
-
 - 📫 How to reach me **💬 hossainsakib965@gmail.com 📞 +8801780619346**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1mUnpaifDXHWyvzC9f4tgbp1Uyl5I6ctLb4ZvQMs2wFs/edit?tab=t.0](https://docs.google.com/document/d/1mUnpaifDXHWyvzC9f4tgbp1Uyl5I6ctLb4ZvQMs2wFs/edit?tab=t.0)
-
 - ⚡ Fun fact **I think I’m funny 😄... but my code is serious!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Socials:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sakib-hossain-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakib-hossain-dev" height="30" width="40" /></a>
 <a href="https://fb.com/mdsakib.hossain.562329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdsakib.hossain.562329" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@me" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
