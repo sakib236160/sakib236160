@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/23R7WknM/github-header.png" alt="Sakib Hossain Banner" />
+  <img src="https://i.ibb.co/ZRLL6x7X/Screenshot-13.png" alt="Sakib Hossain Banner" />
 </p>
 <h1 align="center">Hi 👋, I'm Sakib Hossain</h1>
 <h3 align="center">A young man interested in frontend technology</h3>
