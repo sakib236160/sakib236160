@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://i.ibb.co/FYQ2nRg/banner-demo.png" alt="Sakib Hossain Banner" />
+</p>
 <h1 align="center">Hi 👋, I'm Sakib Hossain</h1>
 <h3 align="center">MERN Stack Developer</h3>
 
